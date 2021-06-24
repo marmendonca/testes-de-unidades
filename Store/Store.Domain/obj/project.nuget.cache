@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+XdEaiN3Q+ahPYIlCqBhGA7JZv2IiXE/C6q1qE9lNJNUQdPFLU2YeL3OJiBeljyvDCCj+KLxaevYTBKwzQMtkw==",
+  "dgSpecHash": "zMV2RrHCQfuCvuf2UR/P4//thVyBwGgzQUaFYWI/TIEJsNB1xv0QXI4F4YlhzMgFDQVEv02HLxw5bsPeVbMetQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\queir\\Documents\\SpaceStudy\\Cursos\\TestesDeUnidade\\testes-de-unidades\\Store\\Store.Domain\\Store.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\queir\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

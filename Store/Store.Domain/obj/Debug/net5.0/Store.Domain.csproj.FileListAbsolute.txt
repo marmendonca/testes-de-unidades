@@ -1,0 +1,12 @@
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\bin\Debug\net5.0\Store.Domain.deps.json
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\bin\Debug\net5.0\Store.Domain.dll
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\bin\Debug\net5.0\ref\Store.Domain.dll
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\bin\Debug\net5.0\Store.Domain.pdb
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.csprojAssemblyReference.cache
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.AssemblyInfoInputs.cache
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.AssemblyInfo.cs
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.csproj.CoreCompileInputs.cache
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.dll
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\obj\Debug\net5.0\ref\Store.Domain.dll
+C:\Users\queir\Documents\SpaceStudy\Cursos\TestesDeUnidade\testes-de-unidades\Store\Store.Domain\obj\Debug\net5.0\Store.Domain.pdb
